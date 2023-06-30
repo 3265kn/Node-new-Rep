@@ -1,2 +1,2 @@
 console.log("kama")
-console.log("sutra")
+console.log("ertyu")
